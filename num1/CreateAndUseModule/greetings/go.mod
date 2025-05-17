@@ -1,0 +1,3 @@
+module nenya.me/greetings
+
+go 1.24.1
